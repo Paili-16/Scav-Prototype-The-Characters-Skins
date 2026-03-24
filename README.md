@@ -1,4 +1,10 @@
 # The System file assets for Notes.
+> [!WARNING]
+> ### Connected system for, Only following files is: [CasualtiesUnknownV5.1Demo](https://orsonik.itch.io/scav-prototype).
+
+> [!IMPORTANT]
+> ### Setting Up for [ sharedassets1.assets ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data
+
 There is have more character skins you can choose.
 
 ### The Character name: [ [Expie (V2)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Expie%20(V2)) ]
@@ -48,11 +54,5 @@ But about some character skins have problem is dressing and equipped would be se
 
 ## A Note
 Just make sure about images is changed, All images head and body is changed for canvas is 50 width and 50 height, But tail and dragon back of wings canvas is 100 width and 50 height.
-
-> [!WARNING]
-> ### Connected system for, Only following files is: [CasualtiesUnknownV5.1Demo](https://orsonik.itch.io/scav-prototype).
-
-> [!IMPORTANT]
-> ### Setting Up for [ sharedassets1.assets ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data
 
 So enjoy for Player skins looks special.
