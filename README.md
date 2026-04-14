@@ -16,7 +16,7 @@ There is have more character skins you can choose.
 ### The Character name: [ [Avali (Experiment)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Avali%20(Experiment)) ]
 <img width="240" height="270" alt="Avali (Experiment)" src="https://github.com/user-attachments/assets/2e1cee72-b0f2-43ec-aca2-75daa8335160" />
 
-### The Character name: [ [Avary (Avali)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Avary%20(Avali)) ]
+### The Character name: [ [Avary (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Avary%20(Avali%20B)) ]
 <img width="240" height="270" alt="Avary (Avali)" src="https://github.com/user-attachments/assets/bfdcbad8-1fa5-4b33-a581-0845b32c932f" />
 
 ### The Character name: [ [Avali (EX Color)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Avali%20(EX%20Color)) ]
@@ -42,6 +42,21 @@ There is have more character skins you can choose.
 
 ### The Character name: [ [Drager (Dragon+Wyvern)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Drager%20(Dragon%2BWyvern)) ]
 <img width="240" height="270" alt="Drager (Dragon+Wyvern)" src="https://github.com/user-attachments/assets/b74526c7-4c78-46ab-9a62-d8b7379b47c8" />
+
+## New Shape of Character skins
+Just character skins as little big of body, Not as thin before.
+
+### The Character name: [ [Expie (New Shape)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Expie%20(New%20Shape)) ]
+<img width="240" height="270" alt="Expie (New Shape 1)" src="https://github.com/user-attachments/assets/80e6ae9c-62f0-4be2-9b1a-df2923379ab9" /> <img width="240" height="270" alt="Expie (New Shape 2)" src="https://github.com/user-attachments/assets/e0d68941-6961-461b-819a-23bb5d73ec82" /> <img width="240" height="270" alt="Expie (New Shape 3)" src="https://github.com/user-attachments/assets/12608f02-ced2-416d-a26a-66153dedb0af" />
+
+### The Character name: [ [Yali (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Yali%20(Avali)) ]
+<img width="240" height="270" alt="Yali (Avali 1)" src="https://github.com/user-attachments/assets/7a7e5109-b534-4cc8-9cf7-e023bb5044e5" /> <img width="240" height="270" alt="Yali (Avali 2)" src="https://github.com/user-attachments/assets/93250a00-682e-4f2b-a681-ff145e331b56" /> <img width="240" height="270" alt="Yali (Avali 3)" src="https://github.com/user-attachments/assets/2a675934-1bbf-456d-b673-7e87ca457eb7" />
+
+### The Character name: [ [Wili (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Wili%20(Avali)) ]
+<img width="240" height="270" alt="Wili (Avali 1)" src="https://github.com/user-attachments/assets/855ef06d-29c1-4b79-bd1e-42c0de8ed967" /> <img width="240" height="270" alt="Wili (Avali 2)" src="https://github.com/user-attachments/assets/1dd80373-dcd9-4653-aff4-af0dc503af11" /> <img width="240" height="270" alt="Wili (Avali 3)" src="https://github.com/user-attachments/assets/fcb2d860-8ca7-4b44-913f-7a5d309c1dad" />
+
+### The Character name: [ [Avary (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Avary%20(Avali)) ]
+<img width="240" height="270" alt="Avary (Avali 1)" src="https://github.com/user-attachments/assets/8d4761a3-cb1c-47a0-9708-1c76ba2cbdde" /> <img width="240" height="270" alt="Avary (Avali 2)" src="https://github.com/user-attachments/assets/e7541da0-3ea8-4baa-a524-86c8c06b8a8f" /> <img width="240" height="270" alt="Avary (Avali 3)" src="https://github.com/user-attachments/assets/0c133d0d-2cd2-4aaa-886f-f14893637857" />
 
 ## Relatively different of Character skins
 But about some character skins have problem is dressing and equipped would be seems like overlapping for clothes mesh, So this have to divided for another.
