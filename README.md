@@ -61,7 +61,7 @@ Just character skins as little big of body, Not as thin before.
 ### The Character name: [ [NightShadow](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/NightShadow) And [Alternate](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/NightShadow%20(Alternate)) ]
 <img width="966" height="270" alt="NightShadow" src="https://github.com/user-attachments/assets/76057d62-bb5e-4563-b1cb-6856882dc555" />
 
-### The Character name: [ [Striker (ExpieBeast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(ExpieBeast)) ]
+### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(ExpieBeast)) ]
 <img width="724" height="270" alt="Striker (ExpieBeast)" src="https://github.com/user-attachments/assets/0d5b857d-51fa-4868-b64d-904d9309ca52" />
 
 ## Relatively different of Character skins
