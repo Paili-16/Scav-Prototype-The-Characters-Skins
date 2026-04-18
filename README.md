@@ -62,7 +62,7 @@ Just character skins as little big of body, Not as thin before.
 <img width="966" height="270" alt="NightShadow" src="https://github.com/user-attachments/assets/76057d62-bb5e-4563-b1cb-6856882dc555" />
 
 ### The Character name: [ [Striker (ExpieBeast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(ExpieBeast)) ]
-<img width="724" height="270" alt="Striker (ExpieBeast)" src="https://github.com/user-attachments/assets/0ed7f28a-cd12-4326-9134-0b2ee46d5b8c" />
+<img width="724" height="270" alt="Striker (ExpieBeast)" src="https://github.com/user-attachments/assets/0d5b857d-51fa-4868-b64d-904d9309ca52" />
 
 ## Relatively different of Character skins
 But about some character skins have problem is dressing and equipped would be seems like overlapping for clothes mesh, So this have to divided for another.
