@@ -63,10 +63,10 @@ Just character skins as little big of body, Not as thin before.
 ### The Character name: [ [Avary (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Avary%20(Avali)) ]
 <img width="724" height="270" alt="Avary (Avali)" src="https://github.com/user-attachments/assets/83207359-3e41-4108-bf66-b555f333f64c" />
 
-### The Character name: [ [Night Shadow](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Night Shadow) And [Alternate](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Night Shadow%20(Alternate)) ]
+### The Character name: [ [Night Shadow](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Night%20Shadow) And [Alternate](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Night%20Shadow%20(Alternate)) ]
 <img width="966" height="270" alt="NightShadow" src="https://github.com/user-attachments/assets/76057d62-bb5e-4563-b1cb-6856882dc555" />
 
-### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(Expie Beast)) ]
+### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(Expie%20Beast)) ]
 <img width="724" height="270" alt="Striker (ExpieBeast)" src="https://github.com/user-attachments/assets/282633bf-5cc9-4884-881a-a4567960ed99" />
 
 > [!WARNING]
