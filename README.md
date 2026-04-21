@@ -5,54 +5,19 @@
 > [!IMPORTANT]
 > ### Setting Up for [ sharedassets1.assets ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data
 
-There is have more character skins you can choose.
-
-> [!CAUTION]
-> Tell me just need to make sure, Should i keeping these character skins updating for version 6.0?
-> Because i have no long wanting these old character skins, Before if you don't ask me a day left, Then i will deleting...
-> But no need to worry about it, The old character skins i will be soon changing for new shape of character skins, Just i need a long time for days.
-> 
-> ### The Character name: [ [Expie (V2)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Expie%20(V2)) ]
-> <img width="240" height="270" alt="Expie (V2)" src="https://github.com/user-attachments/assets/47986d6e-f23c-41f7-a5a0-06cd74891dff" />
-> 
-> ### The Character name: [ [Spiky (Expie)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Spiky%20(Expie)) ]
-> <img width="240" height="270" alt="Spiky (Expie)" src="https://github.com/user-attachments/assets/59387918-5c4d-49ef-9d35-3cfd3389133b" />
-> 
-> ### The Character name: [ [Avali (Experiment)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Avali%20(Experiment)) ]
-> <img width="240" height="270" alt="Avali (Experiment)" src="https://github.com/user-attachments/assets/2e1cee72-b0f2-43ec-aca2-75daa8335160" />
-> 
-> ### The Character name: [ [Avary (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Avary%20(Avali%20B)) ]
-> <img width="240" height="270" alt="Avary (Avali)" src="https://github.com/user-attachments/assets/bfdcbad8-1fa5-4b33-a581-0845b32c932f" />
-> 
-> ### The Character name: [ [Avali (EX Color)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Avali%20(EX%20Color)) ]
-> <img width="240" height="270" alt="Avali (EX Color)" src="https://github.com/user-attachments/assets/623176f8-22ad-41a7-bfb9-bb83e237cd97" />
-> 
-> ### The Character name: [ [Avary (Avali & EX Color)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Avary%20(Avali%20%26%20EX%20Color)) ]
-> <img width="240" height="270" alt="Avary (Avali   EX Color)" src="https://github.com/user-attachments/assets/9c9356a5-be24-4812-a606-1ebff3b32da9" />
-> 
-> ### The Character name: [ [Striker (Expie+Voyager)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Striker%20(Expie%2BVoyager)) ]
-> <img width="240" height="270" alt="Striker (Expie+Voyager)" src="https://github.com/user-attachments/assets/8a1049c5-1822-4d57-a9f0-2b1c44eb8164" />
-> 
-> ### The Character name: [ [Paili (Lizarder)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Paili%20(Lizarder)) ]
-> <img width="240" height="270" alt="Paili (Lizarder)" src="https://github.com/user-attachments/assets/b7d1144b-6e7e-40b1-a42b-d8ab9f4b31c7" />
-> 
-> ### The Character name: [ [Drager (Drake)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Drager%20(Drake)) ]
-> <img width="240" height="270" alt="Drager (Drake)" src="https://github.com/user-attachments/assets/b87cafcc-1cdf-4b97-9875-c3e730b6f9af" />
-> 
-> ### The Character name: [ [Drager (Dragon)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Drager%20(Dragon)) ]
-> <img width="240" height="270" alt="Drager (Dragon)" src="https://github.com/user-attachments/assets/a108902f-1a47-4691-8630-3712aa28b28f" />
-> 
-> ### The Character name: [ [Drager (Wyvern)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Drager%20(Wyvern)) ]
-> <img width="240" height="270" alt="Drager (Wyvern)" src="https://github.com/user-attachments/assets/5abca88b-2db6-466a-82bc-53a60e13465f" />
-> 
-> ### The Character name: [ [Drager (Dragon+Wyvern)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Drager%20(Dragon%2BWyvern)) ]
-> <img width="240" height="270" alt="Drager (Dragon+Wyvern)" src="https://github.com/user-attachments/assets/b74526c7-4c78-46ab-9a62-d8b7379b47c8" />
+There is have character skins you can choose.
 
 ## New Shape of Character skins
 Just character skins as little big of body, Not as thin before.
 
 ### The Character name: [ [Expie (New Shape)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Expie%20(New%20Shape)) ]
 <img width="724" height="270" alt="Expie (New Shape)" src="https://github.com/user-attachments/assets/8f8cdf96-6c55-4471-820f-48beb44a99cf" />
+
+### The Character name: [ [Spiky (Apex Expie)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Spiky%20(Apex%20Expie)) ]
+<img width="724" height="270" alt="Spiky (Apex Expie)" src="https://github.com/user-attachments/assets/430351a9-90a3-4468-970b-26843a7f7ec6" />
+
+### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(Expie%20Beast)) ]
+<img width="724" height="270" alt="Striker (Expie Beast)" src="https://github.com/user-attachments/assets/2a65c5aa-fdda-41f5-b078-192463e9da2e" />
 
 ### The Character name: [ [Yali (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Yali%20(Avali)) ]
 <img width="724" height="270" alt="Yali (Avali)" src="https://github.com/user-attachments/assets/817a1be4-1920-4761-9299-3dc258c7f76f" />
@@ -64,10 +29,7 @@ Just character skins as little big of body, Not as thin before.
 <img width="724" height="270" alt="Avary (Avali)" src="https://github.com/user-attachments/assets/83207359-3e41-4108-bf66-b555f333f64c" />
 
 ### The Character name: [ [Night Shadow](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Night%20Shadow) And [Alternate](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Night%20Shadow%20(Alternate)) ]
-<img width="966" height="270" alt="NightShadow" src="https://github.com/user-attachments/assets/76057d62-bb5e-4563-b1cb-6856882dc555" />
-
-### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(Expie%20Beast)) ]
-<img width="724" height="270" alt="Striker (ExpieBeast)" src="https://github.com/user-attachments/assets/282633bf-5cc9-4884-881a-a4567960ed99" />
+<img width="966" height="270" alt="Night Shadow" src="https://github.com/user-attachments/assets/e8023b5c-2e7c-42f8-81ac-24d222aaf8ab" />
 
 > [!WARNING]
 > ## Relatively different of Character skins
