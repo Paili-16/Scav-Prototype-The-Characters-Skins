@@ -14,10 +14,10 @@ Just character skins as little big of body, Not as thin before.
 <img width="724" height="270" alt="Expie (New Shape)" src="https://github.com/user-attachments/assets/8f8cdf96-6c55-4471-820f-48beb44a99cf" />
 
 ### The Character name: [ [Spiky (Apex Expie)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Spiky%20(Apex%20Expie)) ]
-<img width="724" height="270" alt="Spiky (Apex Expie)" src="https://github.com/user-attachments/assets/430351a9-90a3-4468-970b-26843a7f7ec6" />
+<img width="724" height="270" alt="Spiky (Apex Expie)" src="https://github.com/user-attachments/assets/3b95e70f-7ebd-46fb-a197-0b321655c8f5" />
 
 ### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(Expie%20Beast)) ]
-<img width="724" height="270" alt="Striker (Expie Beast)" src="https://github.com/user-attachments/assets/2a65c5aa-fdda-41f5-b078-192463e9da2e" />
+<img width="724" height="270" alt="Striker (Expie Beast)" src="https://github.com/user-attachments/assets/b4c00f6a-a166-4b60-8f70-a0a5b8b32030" />
 
 ### The Character name: [ [Yali (Avali)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Yali%20(Avali)) ]
 <img width="724" height="270" alt="Yali (Avali)" src="https://github.com/user-attachments/assets/817a1be4-1920-4761-9299-3dc258c7f76f" />
