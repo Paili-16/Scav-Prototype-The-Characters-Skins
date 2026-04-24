@@ -1,6 +1,6 @@
 # The System file assets for Notes.
 > [!WARNING]
-> ### Connected system for, Only following files is: [CasualtiesUnknownV6.0Demo](https://orsonik.itch.io/scav-prototype).
+> ### Connected system for, Only following files is: [CasualtiesUnknownV6.1Demo](https://orsonik.itch.io/scav-prototype).
 
 > [!IMPORTANT]
 > ### Setting Up for [ sharedassets1.assets ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data
