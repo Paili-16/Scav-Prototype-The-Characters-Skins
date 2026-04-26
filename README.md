@@ -16,6 +16,9 @@ Just character skins as little big of body, Not as thin before.
 ### The Character name: [ [Spiky (Apex Expie)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Spiky%20(Apex%20Expie)) ]
 <img width="724" height="270" alt="Spiky (Apex Expie)" src="https://github.com/user-attachments/assets/3b95e70f-7ebd-46fb-a197-0b321655c8f5" />
 
+### The Character name: [ [Lizarder](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Lizarder) ]
+<img width="724" height="270" alt="Lizarder" src="https://github.com/user-attachments/assets/6a1d17ca-a68a-46ca-b012-489e69bca50d" />
+
 ### The Character name: [ [Striker (Expie Beast)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Striker%20(Expie%20Beast)) ]
 <img width="724" height="270" alt="Striker (Expie Beast)" src="https://github.com/user-attachments/assets/b4c00f6a-a166-4b60-8f70-a0a5b8b32030" />
 
