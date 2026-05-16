@@ -45,7 +45,10 @@ Just character skins as little big of body, Not as thin before.
 
 ## Relatively different of Character skins
 But about some character skins have problem was each outfit looks quite different when worn, So this have to divided for another.
- 
+
+### The Character name: [ [Scorpix (Shell Raider)](https://github.com/Paili-16/The-Characters-Skins./tree/main/Scorpix%20(Shell%20Raider)) ]
+<img width="350" height="300" alt="Scorpix (Shell Raider)" src="https://github.com/user-attachments/assets/2c099805-1fce-4829-b7cc-96b039e22319" />
+
 ### The Character name: [ [GX-3 (Prototype Experiment)](https://github.com/Paili-16/The-Characters-Skins./tree/main/GX-3%20(Prototype%20Experiment)) ]
 <img width="300" height="300" alt="GX-3 (Prototype Experiment)" src="https://github.com/user-attachments/assets/e419f2da-b686-451b-b13a-c1d5834be8ed" />
 
