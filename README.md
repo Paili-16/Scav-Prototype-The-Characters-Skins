@@ -1,8 +1,66 @@
-# The Character Skins
-There is have character skins you can choose, To download the character skins, press the blue type: [View raw]
+# Casualties Unknown Sprites:
+One of the character skins have lot sprites, but not the previous character skins.
+As you choose character skins to download the character skins, press the blue type: [View raw]
 
-## New Shape of Character skins
-Just character skins as little big of body, Not as thin before.
+## Casualties Unknown Skins:
+Just from my idea like colorful of mottled streaks and lines, nexttime I will adding without it.
+
+### [Rising Expie](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Expie)
+<img width="300" height="300" alt="RisingExpie" src="https://github.com/user-attachments/assets/6f5e7e5a-7265-4a1e-b8bd-80755246bea1" />
+
+### [Rising Milky](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Milky)
+<img width="300" height="300" alt="RisingMilky" src="https://github.com/user-attachments/assets/b320b2e2-927f-488d-877e-20063b1c4efa" />
+
+### [Rising Dune](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Dune)
+<img width="300" height="300" alt="RisingDune" src="https://github.com/user-attachments/assets/94139ea0-696e-43ce-ad1c-a015673f4abb" />
+
+## Other Furry Shins:
+Relatively frequent contact with these world.
+
+### [Rising Avali](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Avali)
+<img width="300" height="300" alt="RisingAvali" src="https://github.com/user-attachments/assets/2f2d4bf6-350c-4716-bcda-d1f4a1e66e2a" />
+
+## Appearance:
+Expressions, custom and protogen suit. As you can see from the sprites in the folder these are all part of convert, or from that I recording convert sprites.
+Besides at happy eyes is no longer with blushed, only you convert it and change it.
+From the Rising Avali sprites: I couldn't even better searching sprites for replace, that's because lot of the folder are disorganized. So I decided the folder as "Alternated" save to form folder.
+
+## Minor Bug:
+There are minor bugging couldn't even fixed it.
+
+Small gap: When the head is over bend downward and standing still.
+To fixing small gap: That would be problem.
+
+If is the chest: The neck swelling look weird when the head is over bend upward and squatting.
+
+If is the head: It will a bit covers by the head his neck, when it clothed shirt, or the color doesn't look like same touch.
+
+From the Rising Dune sprites: The back thigh his fin covers of the back leg when the back leg is bent.
+
+## Question
+Making the character skins I need take lot of time.
+
+I have no longer to make sharedassets1.assets an file.
+[dogederp](https://github.com/dogederp) is right, I understand, I don't need to make this sharedassets1.assets for waste of my time.
+And thank you [dogederp](https://github.com/dogederp) for make me understand.
+
+## Currents The Character Skins Mode
+The character skins are currently sourced was from linked mods and supportion:
+
+[Change Skin (Old Version)](https://github.com/05126619z/ChangeSkin) by [05126619z](https://github.com/05126619z)
+
+[Player Sprite Replacer (Currently in use)](https://github.com/dogederp/CasultiesUnknown_Player-sprite-replacer) by [dogederp](https://github.com/dogederp)
+
+[Change Skin Multiplayer](https://github.com/05126619z/ChangeSkin-Multiplayer) by [05126619z](https://github.com/05126619z) & [dogederp](https://github.com/dogederp)
+
+[Multiplayer Sprite Replacer](https://www.nexusmods.com/scavprototype/mods/74?tab=description) by [zv7i](https://www.nexusmods.com/scavprototype/users/157219828)
+
+[Multiplayer Sprite Player Customizer](https://www.nexusmods.com/scavprototype/mods/139?tab=files) by [rusiber](https://www.nexusmods.com/scavprototype/mods/139?tab=files#:~:text=Uploaded%20by-,rusiber,-Virus%20scan)
+
+## New Shape of Character Skins:
+Sorry these character skins are outdated.
+When convert previous character skin to the new ones, the previous character skin would be deleted.
+The year ago character skins is have exist from this link: [https://skin.cat-bot.de/]
 
 ### The Character name: [ [Expie (New Shape)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/blob/main/Expie%20(New%20Shape).zip) ]
 <img width="300" height="300" alt="Expie (New Shape)" src="https://github.com/user-attachments/assets/52a64066-8b2f-42d6-8c4f-b9909f9e6e1c" /> 
@@ -49,22 +107,4 @@ But about some character skins have problem was each outfit looks quite differen
 ### The Character name: [ [Grav-Bot (Iterator Experiment)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/blob/main/Grav-Bot%20(Iterator%20Experiment).zip) And [Clothing](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/blob/main/Grav-Bot%20(Iterator%20Experiment%20%26%20Clothing).zip) ]
 <img width="602" height="300" alt="Grav-Bot (Iterator Experiment) And (Clothing)" src="https://github.com/user-attachments/assets/78644ff5-432a-4063-b1f1-f24a5bcdb857" />
 
-## Currents The Character Skins Mode
-The character skins are currently sourced was from linked mods and supportion:
-
-[Change Skin (Old Version)](https://github.com/05126619z/ChangeSkin) by [05126619z](https://github.com/05126619z)
-
-[Player Sprite Replacer](https://github.com/dogederp/CasultiesUnknown_Player-sprite-replacer) by [dogederp](https://github.com/dogederp)
-
-[Change Skin Multiplayer](https://github.com/05126619z/ChangeSkin-Multiplayer) by [05126619z](https://github.com/05126619z) & [dogederp](https://github.com/dogederp), [Change Skin Multiplayer](https://github.com/05126619z/ChangeSkin-Multiplayer)
-
-[Multiplayer Sprite Replacer](https://www.nexusmods.com/scavprototype/mods/74?tab=description) by [zv7i](https://www.nexusmods.com/scavprototype/users/157219828)
-
-[Multiplayer Sprite Player Customizer](https://www.nexusmods.com/scavprototype/mods/139?tab=files) by [rusiber](https://www.nexusmods.com/scavprototype/mods/139?tab=files#:~:text=Uploaded%20by-,rusiber,-Virus%20scan)
-
-## A Note
-I have no longer to make sharedassets1.assets an file.
-[dogederp](https://github.com/dogederp) is right, I understand, I don't need to make this sharedassets1.assets for waste of my time.
-And thank you [dogederp](https://github.com/dogederp) for make me understand.
-
-So enjoy for Player skins looks special.
+Whatever feel free.
