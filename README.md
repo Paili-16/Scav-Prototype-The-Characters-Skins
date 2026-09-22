@@ -21,7 +21,7 @@ Relatively frequent contact with these world.
 <img width="300" height="300" alt="RisingAvali" src="https://github.com/user-attachments/assets/2f2d4bf6-350c-4716-bcda-d1f4a1e66e2a" />
 
 ## Appearance:
-Expressions, custom and protogen suit. As you can see from the sprites in the folder these are all part of convert, or from that I recording convert sprites.
+Expressions, custom and protogen suit. As you can see from the sprites in the folder these are all part of convert.
 
 Besides at happy eyes is no longer with blushed, only you convert it and change it.
 
