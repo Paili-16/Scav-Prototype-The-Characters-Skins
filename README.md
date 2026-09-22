@@ -22,7 +22,9 @@ Relatively frequent contact with these world.
 
 ## Appearance:
 Expressions, custom and protogen suit. As you can see from the sprites in the folder these are all part of convert, or from that I recording convert sprites.
+
 Besides at happy eyes is no longer with blushed, only you convert it and change it.
+
 From the Rising Avali sprites: I couldn't even better searching sprites for replace, that's because lot of the folder are disorganized. So I decided the folder as "Alternated" save to form folder.
 
 ## Minor Bug:
