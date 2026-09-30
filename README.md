@@ -20,6 +20,9 @@ Relatively frequent contact with these world.
 ### [Rising Avali](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Avali)
 <img width="300" height="300" alt="RisingAvali" src="https://github.com/user-attachments/assets/2f2d4bf6-350c-4716-bcda-d1f4a1e66e2a" />
 
+### [Rising Avali (White)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Avali%20(White))
+<img width="300" height="300" alt="RisingAvaliWhite" src="https://github.com/user-attachments/assets/1b97339e-767d-481e-9cc6-108bbeea24f6" />
+
 ## Appearance:
 Expressions, custom and protogen suit. As you can see from the sprites in the folder these are all part of convert or from that I recording 
 convert skins: [Rising Expie to changing image appearance.](https://skin.cat-bot.de/media/images/skins/RisingExpie_to_changing_image_appearance_q4pTV9f.gif)
