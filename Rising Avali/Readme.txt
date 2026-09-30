@@ -1,8 +1,25 @@
 Name: Rising Avali
 
-Dating: Version: 1.00C
+Dating: Version: 1.00D
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+Minor Revisions:
+From The Folder Protogen at Suit1: The Up Arms had forgotten added.
+From The Images Protogen any Hand Front: The Location is on the middle phalanx of the finger, change at bit bright.
+From The Folder Protogen at Suit1,3 as Down Arms: The Located near the elbow of the armor, change at bit dark.
+From The Folder Protogen at Eyes Cry as Eye Sad: Sweat streaming down the face has missing transparent pixel.
+From The Folder at Eyes Narrowed: The Eye Closed had forgotten added, also at the protogen eyes too.
+
+Revisions:
+From The Images Protogen any Down Arm Wings and Foot Wings: The Located in the near the wing, change at bit bright.
+From The Images Protogen any Gritted at Head Back Mouth: The Located is under the jaw has missing pixel.
+From The Folder Protogen at Eyes Alternated as Eye Half Closed: The Location is in the center just above the eye, there is pixel shade a bit dark.
+From The Folder Protogen at Eyes Alternated as Eye Sad: The location is outside the pupil, change at bit dark.
+From The Folder Protogen at Eyes Sparkling as Eye Sad: Change the white light to bright colors.
+
+_______________________________
+Previous dating: Version: 1.00C
 
 Minor Revisions:
 From The Folder at Wings5 as Tail: The Located in the middle near the feather's tail, there is pixel shade a bit bright.
