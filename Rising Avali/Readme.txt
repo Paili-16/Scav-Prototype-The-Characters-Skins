@@ -1,8 +1,29 @@
 Name: Rising Avali
 
-Dating: Version: 1.00D
+Dating: Version: 1.00E
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+Minor Revisions:
+From The Images Protogen any Hand Back: The Located on the thumb claw, change at bit bright.
+From The Images Protogen any Up Arm: The Location is front in the light ray outside, there is pixel shade a bit bright.
+From The Folder Protogen at Eyes Alternated as Eye Panic: Deleted, because it's same image.
+From The Folder Protogen at Eyes Awakened2 as Eye Sad: The Location is above the eye.
+From The Folder Protogen at Eyes Sparkling as Eye Scared: The Location is beneath and behind the pupil, there is pixel shade at bit dark.
+
+Revisions:
+From The Images any Gone Eyes and Nosebleed: Revision for transparent blood pixels.
+From The Images Protogen any Eyes Panic apart from Eyes Alternated1,2 is no changed: The Location is outside the iris, change at bit dark.
+From The Folder Protogen at Eyes Angry as any Eyelash: The Location is at the very front, there is pixel shade a bit bright.
+
+Major Revisions:
+From The Images any Cry Eyes especially with tears: The Located in behind near the eyelashes, there is transparent pixel shade a bit dark.
+From The Folder at Hair4: The Located on the upper part of the feather near the light ray, there is pixel shade a bit bright. Also at the protogen head too.
+From The Folder at Hair5: The Located on the upper feathers especially the light ray near the top of the head, there is pixel shade at bit bright. Also at the protogen head too.
+From The Folder Protogen at Hair6: The Located is at the bottom further down feather, there is pixel shade at bit dark.
+
+_______________________________
+Previous dating: Version: 1.00D
 
 Minor Revisions:
 From The Folder Protogen at Suit1: The Up Arms had forgotten added.
@@ -15,7 +36,7 @@ Revisions:
 From The Images Protogen any Down Arm Wings and Foot Wings: The Located in the near the wing, change at bit bright.
 From The Images Protogen any Gritted at Head Back Mouth: The Located is under the jaw has missing pixel.
 From The Folder Protogen at Eyes Alternated as Eye Half Closed: The Location is in the center just above the eye, there is pixel shade a bit dark.
-From The Folder Protogen at Eyes Alternated as Eye Sad: The location is outside the pupil, change at bit dark.
+From The Folder Protogen at Eyes Alternated as Eye Sad: The Location is outside the pupil, change at bit dark.
 From The Folder Protogen at Eyes Sparkling as Eye Sad: Change the white light to bright colors.
 
 _______________________________
@@ -39,7 +60,7 @@ From The Images any Sad Eyes especially pupil bigger: The outermost pupil.
 Just have lost pointness...
 
 Major Revisions:
-From The Folder at Wings Tail any Alternated: The location is at the upper surface of the front part of the tail at colors glowing of several pixel.
+From The Folder at Wings Tail any Alternated: The Location is at the upper surface of the front part of the tail at colors glowing of several pixel.
 From The Folder at Hair3: The Located is at the upper feather's amidst the light rays, there is pixel at bit dark especially orange color. And behind the feather amidst the light rays, there is pixel a bit bright at yellow color, also at the protogen head too.
 From The Folder at Hair6: The Located is at the bottom further down feather, there is pixel shade at bit dark.
 Like I said couldn't even remember to see about pointness, when I continuous making and has negative influence. I can't talk about too much real life, just I got work so hard of few hours. Still lock in.
