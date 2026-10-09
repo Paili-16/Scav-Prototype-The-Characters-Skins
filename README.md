@@ -25,7 +25,8 @@ Relatively frequent contact with these world.
 
 ## Appearance:
 Expressions, custom and protogen suit. As you can see from the sprites in the folder these are all part of convert or from that I recording 
-convert skins: [Rising Expie to changing image appearance.](https://skin.cat-bot.de/media/images/skins/RisingExpie_to_changing_image_appearance_q4pTV9f.gif)
+convert skins: [Rising Expie to changing image appearance.](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/blob/main/RisingExpie%20(to%20changing%20image%20appearance).gif
+)
 
 Besides at happy eyes is no longer with blushed, only you convert it and change it.
 
@@ -45,6 +46,8 @@ From the Rising Dune sprites: The back thigh his fin covers of the back leg when
 
 ## Question
 Making the character skins I need take lot of time.
+
+Sorry, when I updating of revisions at sprites. I know I'm messing around. I was carrying my original sprite characters. Because I don't abandon these sprite characters. That's can be possible for these sprite characters to add certain some sprite parts as ideas. If I don't revisions them, I'm afraid this would be same thing messing or when I don't remind. This may won't be the last updated.
 
 I have no longer to make sharedassets1.assets an file.
 [dogederp](https://github.com/dogederp) is right, I understand, I don't need to make this sharedassets1.assets for waste of my time.
