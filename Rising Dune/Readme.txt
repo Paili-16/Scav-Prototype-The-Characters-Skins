@@ -1,8 +1,17 @@
 Name: Rising Dune
 
-Dating: Version: 1.00B
+Dating: Version: 1.00C
 
 Some sprites: Expressions, Custom Insects, Suggestive, Protogen Suit
+
+Revisions:
+From The Images any Head Disfigured: The Location is on the back of the mouth his lip, there is pixel shade a bit bright.
+From The Images Protogen when mouth slightly open: The Location is on below the chin, change at bit dark.
+
+Major Revisions: From The Images Protogen any Head: The Location is at the back of the mask near the shell, change a bit bright.
+
+_______________________________
+Previous dating: Version: 1.00B
 
 Revisions: From The Images any Nosebleed: Revision for transparent blood pixels.
 

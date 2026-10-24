@@ -1,8 +1,16 @@
 Name: Rising Avali (White)
 
-Dating: Version: 1.00B
+Dating: Version: 1.00C
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+Major Revisions:
+From The Images Protogen any Head: The Location is at the back of the mask near the horn, change at bit bright.
+From The Images any Head: The Located on the back ear, change at bit bright.
+From The Folder at Hair1: The Located on the upper part of the feather, pixel recolor.
+
+_______________________________
+Previous dating: Version: 1.00B
 
 Minor Revisions:
 From The Images Protogen any Hand Back: The Located on the thumb claw, change at bit bright.

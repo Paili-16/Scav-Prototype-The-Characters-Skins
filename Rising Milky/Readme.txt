@@ -1,8 +1,18 @@
 Name: Rising Milky
 
-Dating: Version: 1.00B
+Dating: Version: 1.00C
 
 Some sprites: Expressions, Custom Fluffy, Suggestive, Protogen Suit
+
+Minor Revisions: From The Folder Protogen at Alternated as Up Torso: The Located on the upper back tail furs near the armor, there is pixel shade at bit bright.
+
+Major Revisions:
+From The Images any Head: The Located on the back ear towards the upper front, change a bit dark.
+From The Images Protogen any Head: The Location is at the back of the mask, change a bit bright.
+From The Folder at Hair: The Colors glowing separates the strands of hair on his head.
+
+_______________________________
+Previous dating: Version: 1.00B
 
 Minor Revisions: From The Images Protogen any Hand Back: The Located on the thumb claw, change at bit bright.
 

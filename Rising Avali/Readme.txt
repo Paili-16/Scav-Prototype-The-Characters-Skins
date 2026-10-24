@@ -1,8 +1,15 @@
 Name: Rising Avali
 
-Dating: Version: 1.00E
+Dating: Version: 1.00F
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+Major Revisions:
+From The Images Protogen any Head: The Location is at the back of the mask near the horn, change at bit bright.
+From The Images any Head: The Located on the back ear, change at bit bright.
+
+_______________________________
+Previous dating: Version: 1.00E
 
 Minor Revisions:
 From The Images Protogen any Hand Back: The Located on the thumb claw, change at bit bright.
@@ -68,7 +75,7 @@ Like I said couldn't even remember to see about pointness, when I continuous mak
 _______________________________
 Previous dating: Version: 1.00B
 
-Minor Revisions: From The Folder at Wings Tail Alternated1: The location is at the very tip of the feather's tail, there is pixel shade a bit bright.
+Minor Revisions: From The Folder at Wings Tail Alternated1: The Location is at the very tip of the feather's tail, there is pixel shade a bit bright.
 I been recolors then I realized saw it, couldn't even remember or couldn't see that somehow even I forgot about it.
 
 _______________________________
@@ -77,5 +84,5 @@ Previous dating: Version: 1.00A
 Revisions: From The Folder at Hair5 on the sprites: There is have missing a pixel, especially right at the front of that hairstyle of his.
 That sprite of the hairstyle I copied earlier, didn't quite get that spacing connect all well.
 
-Major Revisions: The sprites head: It is located relatively close to the eye, towards the upper front at colors glowing a pixel.
+Major Revisions: The Sprites Head: It is located relatively close to the eye, towards the upper front at colors glowing a pixel.
 Last time I been recolors then I arrived that I realized, it see just the small problen. In summary I’m not letting this slide.
