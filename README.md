@@ -5,8 +5,11 @@ As you choose character skins to download the character skins, press the blue ty
 ## Casualties Unknown Skins:
 Just from my idea like colorful of mottled streaks and lines, nexttime I will adding without it.
 
+### [Expie (Rising)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Expie%20(Rising))
+<img width="300" height="300" alt="ExpieRising" src="https://github.com/user-attachments/assets/38a08b00-baa5-401f-afbe-4f12aaa7c5bd" />
+
 ### [Rising Expie](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Expie)
-<img width="300" height="300" alt="RisingExpie" src="https://github.com/user-attachments/assets/6f5e7e5a-7265-4a1e-b8bd-80755246bea1" />
+<img width="300" height="300" alt="RisingExpie" src="https://github.com/user-attachments/assets/7c319dda-be3c-46ae-bab7-aaf1ba375537" />
 
 ### [Rising Milky](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Milky)
 <img width="300" height="300" alt="RisingMilky" src="https://github.com/user-attachments/assets/b320b2e2-927f-488d-877e-20063b1c4efa" />
