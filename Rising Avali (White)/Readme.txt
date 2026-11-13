@@ -1,8 +1,15 @@
 Name: Rising Avali (White)
 
-Dating: Version: 1.00C
+Dating: Version: 1.00D
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+Major Revisions:
+The Folder is: "st" change of name to "slot"
+From Folder any st (slot) at Head Disfigured 2 to 3 : The Images Head Disfigured 1 a substitute clone the Head Disfigured 2 through 3.
+
+_______________________________
+Previous dating: Version: 1.00C
 
 Major Revisions:
 From The Images Protogen any Head: The Location is at the back of the mask near the horn, change at bit bright.

@@ -1,8 +1,16 @@
 Name: Rising Expie
 
-Dating: Version: 1.15A
+Dating: Version: 1.15B
 
 Some sprites: Expressions, Hair, Custom Fluffy, Suggestive, Protogen Suit, Skull Parts
+
+Major Revisions:
+From The Images Protogen any Head: The Location is on the ears at the upper near the mask his horn, change at bit bright.
+The Folder is: "st" change of name to "slot"
+From Folder any st (slot) at Head Disfigured 2 to 3 : The Images Head Disfigured 1 a substitute clone the Head Disfigured 2 through 3.
+
+_______________________________
+Previous dating: Version: 1.15A
 
 New addition sprites:
 The Ears at idea perked: The Folder as "Ears".
@@ -16,7 +24,7 @@ From The Folder at Eyes Cry: The Images Eye Panic especially the outermost pupil
 From The Folder at Eyes Raged: The Eye Panic had forgotten added.
 From The Folder at Alternated & Furs2: The Location is under the chest especially the fur, wiped a pixel.
 From The Folder Protogen at Furs & Suit and Suit3 as Down Arm: The Location is on the armor towards the under front and under middle especially the light ray, there is pixel shade at bit dark.
-From The Folder Protogen at Suit3 as Foot: The Located on the toes, there is pixel shade at bit dark.
+From The Folder Protogen at Suit3 as Foot: The Located on the toes, there is pixel shade a bit dark.
 From The Folder Protogen at Alternated as Up Torso: The Located on the back tail furs near the curvature of the armor, there is pixel shade a bit bright.
 
 Revisions:

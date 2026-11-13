@@ -1,8 +1,15 @@
 Name: Rising Dune
 
-Dating: Version: 1.00C
+Dating: Version: 1.00D
 
 Some sprites: Expressions, Custom Insects, Suggestive, Protogen Suit
+
+Major Revisions:
+The Folder is: "st" change of name to "slot"
+From Folder any st (slot) at Head Disfigured 2 to 3 : The Images Head Disfigured 1 a substitute clone the Head Disfigured 2 through 3.
+
+_______________________________
+Previous dating: Version: 1.00C
 
 Revisions:
 From The Images any Head Disfigured: The Location is on the back of the mouth his lip, there is pixel shade a bit bright.
