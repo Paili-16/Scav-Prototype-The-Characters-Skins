@@ -11,8 +11,11 @@ Just from my idea like colorful of mottled streaks and lines, nexttime I will ad
 ### [Rising Expie](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Expie)
 <img width="300" height="300" alt="RisingExpie" src="https://github.com/user-attachments/assets/7c319dda-be3c-46ae-bab7-aaf1ba375537" />
 
+### [Milky (Rising)](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Milky%20(Rising))
+<img width="300" height="300" alt="MilkyRising" src="https://github.com/user-attachments/assets/6993ca82-f81a-4736-ac5c-f257e8c099ea" />
+
 ### [Rising Milky](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Milky)
-<img width="300" height="300" alt="RisingMilky" src="https://github.com/user-attachments/assets/b320b2e2-927f-488d-877e-20063b1c4efa" />
+<img width="300" height="300" alt="RisingMilky" src="https://github.com/user-attachments/assets/7c2c709d-440e-470b-9076-793b2487fa5b" />
 
 ### [Rising Dune](https://github.com/Paili-16/Scav-Prototype-The-Characters-Skins/tree/main/Rising%20Dune)
 <img width="300" height="300" alt="RisingDune" src="https://github.com/user-attachments/assets/94139ea0-696e-43ce-ad1c-a015673f4abb" />
@@ -59,15 +62,17 @@ And thank you [dogederp](https://github.com/dogederp) for make me understand.
 ## Currents The Character Skins Mode
 The character skins are currently sourced was from linked mods and supportion:
 
-[Change Skin (Old Version)](https://github.com/05126619z/ChangeSkin) by [05126619z](https://github.com/05126619z)
+[Change Skin](https://github.com/05126619z/ChangeSkin) (Old Version) by [05126619z](https://github.com/05126619z)
 
-[Player Sprite Replacer (Currently in use)](https://github.com/dogederp/CasultiesUnknown_Player-sprite-replacer) by [dogederp](https://github.com/dogederp)
+[Player Sprite Replacer](https://github.com/dogederp/CasultiesUnknown_Player-sprite-replacer) (Currently in use) by [dogederp](https://github.com/dogederp)
 
 [Change Skin Multiplayer](https://github.com/05126619z/ChangeSkin-Multiplayer) by [05126619z](https://github.com/05126619z) & [dogederp](https://github.com/dogederp)
 
-[Multiplayer Sprite Replacer](https://www.nexusmods.com/scavprototype/mods/74?tab=description) by [zv7i](https://www.nexusmods.com/scavprototype/users/157219828)
+[Multiplayer Sprite Replacer](https://www.nexusmods.com/scavprototype/mods/74) by [zv7i](https://www.nexusmods.com/scavprototype/users/157219828)
 
-[Multiplayer Sprite Player Customizer](https://www.nexusmods.com/scavprototype/mods/139?tab=files) by [rusiber](https://www.nexusmods.com/scavprototype/mods/139?tab=files#:~:text=Uploaded%20by-,rusiber,-Virus%20scan)
+[Multiplayer Sprite Player Customizer](https://www.nexusmods.com/scavprototype/mods/139) by [rusiber](https://www.nexusmods.com/profile/rusiber?gameId=8391)
+
+[New Multiplayer Sprite Replacer](https://www.nexusmods.com/scavprototype/mods/817) by [Lenruii](https://www.nexusmods.com/profile/Lenruii?gameId=8391)
 
 ## New Shape of Character Skins:
 Sorry these character skins are outdated.
