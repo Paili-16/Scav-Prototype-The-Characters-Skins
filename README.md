@@ -74,6 +74,8 @@ The character skins are currently sourced was from linked mods and supportion:
 
 [New Multiplayer Sprite Replacer](https://www.nexusmods.com/scavprototype/mods/817) by [Lenruii](https://www.nexusmods.com/profile/Lenruii?gameId=8391)
 
+[Dress My Scav](https://www.nexusmods.com/scavprototype/mods/910) (Useful. From character sprites can see how like character style was type is, especially Milky and Dune.) by [AbyssLasea](https://www.nexusmods.com/scavprototype/users/138638383)
+
 ## New Shape of Character Skins:
 Sorry these character skins are outdated.
 When convert previous character skin to the new ones, the previous character skin would be deleted.
