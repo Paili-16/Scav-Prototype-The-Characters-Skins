@@ -1,8 +1,15 @@
 Name: Rising Dune
 
-Dating: Version: 1.00D
+Dating: Version: 1.01A
 
 Some sprites: Expressions, Custom Insects, Suggestive, Protogen Suit
+
+New addition sprites: The Eyes from the new version at idea lock in.
+
+Minor Revisions: From The Images Protogen at Eyes Cry as Eyes Half Closed: The Location is on the upper eyes, Change the hue of colors.
+
+_______________________________
+Previous dating: Version: 1.00D
 
 Major Revisions:
 The Folder is: "st" change of name to "slot"
