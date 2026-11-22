@@ -1,8 +1,13 @@
 Name: Rising Avali
 
-Dating: Version: 1.00G
+Dating: Version: 1.01
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+New addition sprites: The Eyes from the new version at idea lock in.
+
+_______________________________
+Previous dating: Version: 1.00G
 
 Major Revisions:
 The Folder is: "st" change of name to "slot"
