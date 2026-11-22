@@ -1,8 +1,22 @@
 Name: Rising Expie
 
-Dating: Version: 1.15B
+Dating: Version: 1.16A
 
 Some sprites: Expressions, Hair, Custom Fluffy, Suggestive, Protogen Suit, Skull Parts
+
+New addition sprites: The Eyes from the new version at idea lock in.
+
+Minor Revisions:
+From The Folder Skull at Eyes Cry as Eyes Scared: Change the pupil of constriction.
+From The Folder Protogen at Eyes Awakened1 as Eyes Scared: Change the pupil of width.
+
+Major Revisions: From The Folder Protogen and Skull at Eyes Raged: Change any the hue of colors.
+
+Deleted sprites: From The Folder at Big Eyes: That's is previous version, because I previously remade the eyes or adding it didn't deleting from previous for now I deleting it. That why the big eyes seems like are kinda weird then I feel didn't use it anymore.
+Sorry for I said that really hurtful.
+
+_______________________________
+Previous dating: Version: 1.15B
 
 Major Revisions:
 From The Images Protogen any Head: The Location is on the ears at the upper near the mask his horn, change at bit bright.
