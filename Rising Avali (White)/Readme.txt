@@ -1,8 +1,13 @@
 Name: Rising Avali (White)
 
-Dating: Version: 1.01
+Dating: Version: 1.01A
 
 Some sprites: Expressions, Hair, Custom Velociraptor, Suggestive, Tail, Protogen Suit
+
+Minor Revisions: From The Folder at Eyes Narrowed as Eye Locked In: The Location is above and behind the eye, near the eyelashes, there is a pixel shader as transparent and performs to vertical flip.
+
+_______________________________
+Previous dating: Version: 1.01
 
 New addition sprites: The Eyes from the new version at idea lock in.
 
